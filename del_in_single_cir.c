@@ -110,7 +110,7 @@ int main()
                     free(ptr);
                 }
             }
-        /*    case 3:
+            case 3:
             {
                  struct node *new_node;
                  new_node = (struct node*)malloc(sizeof(struct node));
@@ -167,7 +167,7 @@ int main()
                  }
                  break;
             }
-         */   
+
             default:
             {
                 exit(0);
